@@ -34,11 +34,11 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  '𝗖𝗝ᴹᴰ-ʙᴏᴛ' 
 //👇 Your name
 global.ownernma =  'CHAMATH' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  '𝗖𝗝-𝗠𝗗' 
 //👇 Sticker Author Name
 global.author =  '_CHAMATH_' 
 //👇 Kick And Auto Delete Group link Senders
