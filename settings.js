@@ -89,7 +89,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Send Welcome ( true or false )
-global.SEND_WELCOME = process.env.SEND_WELCOME || false
+global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
